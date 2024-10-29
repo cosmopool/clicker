@@ -4,8 +4,6 @@ mockup/
 coverage/
 coverage.*
 codecov*
-linux/
-linux/*
 **.g.dart
 *.g.dart
 
